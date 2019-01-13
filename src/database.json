@@ -19,5 +19,6 @@
   "watch": "https://raw.githubusercontent.com/jinjor/deno-watch/${b}/",
   "task_runner": "https://raw.githubusercontent.com/jinjor/deno-task-runner/${b}/",
   "ws": "https://raw.githubusercontent.com/denoland/deno_std/${b}/ws/",
-  "io": "https://raw.githubusercontent.com/denoland/deno_std/${b}/io/"
+  "io": "https://raw.githubusercontent.com/denoland/deno_std/${b}/io/",
+  "textproto": "https://raw.githubusercontent.com/denoland/deno_std/${b}/textproto/"
 }
