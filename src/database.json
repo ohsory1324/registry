@@ -1,4 +1,5 @@
 {
+  "net": "https://raw.githubusercontent.com/denoland/deno_std/${b}/net/",
   "http": "https://raw.githubusercontent.com/denoland/deno_std/${b}/http/",
   "fs": "https://raw.githubusercontent.com/denoland/deno_std/${b}/fs/",
   "std": "https://raw.githubusercontent.com/denoland/deno_std/${b}/",
